@@ -1,0 +1,37 @@
+.text_nav{
+    padding-top: 5px;
+}
+
+.download_model_links_column{
+    flex-direction: column;
+    display: flex;
+}
+
+.img_64{
+    max-width: 64px;
+    max-height: 64px;
+}
+
+.img_128{
+    max-width: 128px;
+    max-height: 128px;
+}
+
+.img_192{
+    max-width: 192px;
+    max-height: 192px;
+}
+
+.img_256{
+    max-width: 256px;
+    max-height: 256px;
+}
+
+.navbar{
+    padding-bottom: 0.45rem;
+    padding-top: 0.5rem;
+}
+/* 
+.mr-4{
+    margin-right: 4rem;
+} */
