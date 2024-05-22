@@ -31,6 +31,11 @@
     padding-bottom: 0.45rem;
     padding-top: 0.5rem;
 }
+
+.mar{
+    margin-left: 20px;
+    margin-right: 20px;
+}
 /* 
 .mr-4{
     margin-right: 4rem;

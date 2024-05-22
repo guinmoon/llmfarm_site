@@ -14,9 +14,9 @@
     <meta name="msapplication-TileColor" content="#da532c">
     <meta name="theme-color" content="#ffffff">
 
-    <title>LLaMA and other on iOS and MacOS</title>
+    <title>LLaMA and other LLM on iOS and MacOS</title>
     <meta name="description"
-        content="LLM Farm is an App for run llama and other large language models on iOS and MacOS." />
+        content="LLM Farm is an App for run llama and other LLM on iOS and MacOS." />
 
     <!--Google fonts-->
     <link href="https://fonts.googleapis.com/css?family=Arimo:400,400i,700,700i" rel="stylesheet">
@@ -81,22 +81,43 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-8 mx-auto my-auto text-center">
-                    <h1>LLaMA and other large language models locally on iOS and MacOS.</h1>
+                    <h1>LLaMA and other LLM locally on iOS and MacOS.</h1>
                     <p class="lead mt-4 mb-5">
-                        Various inferences and sampling methods.
+                        Absolutely free, open source and private.
                     </p>
                     <div class="mt-4 d-flex flex-row align-items-center justify-content-center">
+                        <table>
+                        <tr>
+                        <td height="100px"></td>
+                        <td rowspan="4">
+                            <p>
 
-                        <a class="mr-6" href="https://testflight.apple.com/join/6SpPLIVM">
-                            <img class="img_192" src="img/testflight.png" />
-                            <h4 class="dot-circle font-weight-normal">Install with TestFlight</h4>
-                        </a>
-
-                        <p>
-
-                            <img class="img-fluid" src="img/screen1.png" alt="Mockup" />
-                            <!-- <img class="img-fluid" src="https://github.com/guinmoon/LLMFarm/blob/main/dist/screen2.png?raw=true" alt="Mockup" /> -->
-                        </p>
+                                <img class="img-fluid mar" src="img/screen1.png" alt="Mockup" />
+                                <!-- <img class="img-fluid" src="https://github.com/guinmoon/LLMFarm/blob/main/dist/screen2.png?raw=true" alt="Mockup" /> -->
+                            </p>
+                        </td>
+                        </tr>
+                        <tr>
+                            <td class="icon_td">
+                                <a class="mr-6" href="https://testflight.apple.com/join/6SpPLIVM">
+                                    <img class="img_192" src="img/testflight.png" />
+                                    <h4 class="dot-circle font-weight-normal">Install latest <br> with Test Flight</h4>
+                                </a>
+                            </td>  
+                        </tr>
+                        <tr>
+                            <td  class="icon_td mar">
+                                <a class="mr-6 mar" href="https://apps.apple.com/ru/app/llm-farm/id6461209867?l=en-GB&platform=iphone">
+                                    <img class="img_192" src="img/LLMFarm0.1.2_256.png" />
+                                    <h4 class="dot-circle font-weight-normal">Install stable <br> with App Store</h4>
+                                </a>                                  
+                            </td>                      
+                        </tr>
+                        <tr>
+                            <td height="100px"></td>
+                            <td></td>
+                        </tr>
+                        </table>
                     </div>
                 </div>
             </div>
@@ -115,10 +136,9 @@
 
             <div class="row mt-5">
                 <div class="col-md-6 order-2 order-md-1 my-md-auto">
-                    <h3>Made with SwiftUI</h3>
+                    <h3>Absolutely free</h3>
                     <p class="text-muted lead">
-                        Simplicity and speed of development.
-                        One code for all devices. Low entry threshold.
+                        LLM Farm provides all features absolutely free of charge! No hidden fees, subscriptions or feature limitations - all features are available for use at no additional cost.
                     </p>
                     <a href="https://github.com/guinmoon/LLMFarm" class="btn btn-primary">View on github</a>
                 </div>
@@ -214,21 +234,14 @@
                                 <div class="card-body text-center">
                                     <div class="icon-box border-box">
                                         <div class="icon-box-inner small-xs text-primary">
-                                            <span data-feather="layers" width="30" height="30"></span>
+                                            <span data-feather="list" width="30" height="30"></span>
                                         </div>
                                     </div>
                                     <h5 class="mt-0 mb-3">Various inferences</h5>
-                                    LLaMA, RWKV, Falcon<br>
-                                    Starcoder, Replit<br>
-                                    GPTNeoX, GPT2 + Cerebras<br>
-                                    <!-- <ul>
-                                        <li>LLaMA</li>
-                                        <li>GPTNeoX</li>
-                                        <li>Replit</li>
-                                        <li>GPT2 + Cerebras</li>
-                                        <li>Starcoder</li>
-                                        <li>RWKV</li>
-                                    </ul> -->
+                                    LLaMA, Phi, Gemma<br>
+                                    RWKV, Starcoder<br>
+                                    Qwen, GPT2 + Cerebras<br>
+                                    StableLM, And more<br>
                                 </div>
                             </div>
                         </div>
@@ -245,7 +258,7 @@
                                     Temperature<br>
                                     Mirostat v1,v2<br>
                                     Greedy<br>
-
+                                    Grammar<br>
                                 </div>
                             </div>
                         </div>
@@ -259,7 +272,7 @@
                                         </div>
                                     </div>
                                     <h5 class="mt-0 mb-3">Metal</h5>
-                                    Metal acceleration for llama inference
+                                    Metal acceleration makes it possible to run models directly on a mobile device.
                                 </div>
                             </div>
                         </div>
@@ -273,6 +286,32 @@
                                     </div>
                                     <h5 class="mt-0 mb-3">Model settings templates</h5>
                                     Allow you to quick configure downloaded model for each device
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 mb-3">
+                            <div class="card">
+                                <div class="card-body text-center">
+                                    <div class="icon-box border-box">
+                                        <div class="icon-box-inner small-xs text-primary">
+                                            <span data-feather="layers" width="30" height="30"></span>
+                                        </div>
+                                    </div>
+                                    <h5 class="mt-0 mb-3">LoRA</h5>
+                                    LLM Farm offers the ability to connect to LLM LoRa adapters and train them with FineTune right on your mobile device. 
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 mb-3">
+                            <div class="card">
+                                <div class="card-body text-center">
+                                    <div class="icon-box border-box">
+                                        <div class="icon-box-inner small-xs text-primary">
+                                            <span data-feather="image" width="30" height="30"></span>
+                                        </div>
+                                    </div>
+                                    <h5 class="mt-0 mb-3">Multimodal</h5>
+                                    LLM Farm supports multimodal models such as LLaVA, MobileVLM, etc.
                                 </div>
                             </div>
                         </div>
@@ -315,7 +354,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-7 mx-auto text-center">
-                    <h2>Tested models</h2>
+                    <h2>Popular models</h2>
                     <p class="lead text-muted">
                         You can download this models from huginfaces
                     </p>
@@ -331,12 +370,61 @@
                             </div>
                         </div> -->
                         <div class="media-body">
-                            <h5>LLaMA 2</h5>
-                            <p class="text-muted">Popular model from Meta
+                            <h5>LLaMA 3</h5>
+                            <p class="text-muted">Popular model from Meta, device with 8GB Ram required.
                             </p>
                         </div>
                         <a
-                            href="https://huggingface.co/guinmoon/LLMFarm_Models/resolve/main/llama-2-7b-chat-q3_K_S.gguf">
+                            href="https://huggingface.co/QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/resolve/main/Meta-Llama-3-8B-Instruct.Q4_K_S.gguf?download=true">
+                            <div class="icon-box mt-1">
+                                <div class="icon-box-inner small-xs text-primary">
+                                    <span data-feather="download"></span>
+                                    8B
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="media pb-5">
+                        <!-- <div class="icon-box mt-1">
+                            <div class="icon-box-inner small-xs text-primary">
+                                <span data-feather="box"></span>
+                            </div>
+                        </div> -->
+                        <div class="media-body">
+                            <h5>Phi 3</h5>
+                            <p class="text-muted">Popular model from Microsoft is a 3.8 billion-parameter, lightweight, state-of-the-art open model trained using the Phi-3 datasets
+                            </p>
+                        </div>
+                        <a href="https://huggingface.co/PrunaAI/Phi-3-mini-128k-instruct-GGUF-Imatrix-smashed/resolve/main/Phi-3-mini-128k-instruct.IQ4_NL.gguf?download=true">
+                            <div class="icon-box mt-1">
+                                <div class="icon-box-inner small-xs text-primary">
+                                    <span data-feather="download"></span>
+                                    3B
+                                </div>
+                            </div>
+                        </a>                        
+                    </div>
+                    <div class="media pb-5">
+                        <!-- <div class="icon-box mt-1">
+                            <div class="icon-box-inner small-xs text-primary">
+                                <span data-feather="box"></span>
+                            </div>
+                        </div> -->
+                        <div class="media-body">
+                            <h5>Gemma</h5>
+                            <p class="text-muted">Gemma is a family of lightweight, state-of-the-art open models from Google, built from the same research and technology used to create the Gemini models. 
+                            </p>
+                        </div>
+                        <a href="https://huggingface.co/guinmoon/LLMFarm_Models/resolve/main/gemma-2b-it-Q5_K_M.gguf?download=true">
+                            <div class="icon-box mt-1">
+                                <div class="icon-box-inner small-xs text-primary">
+                                    <span data-feather="download"></span>
+                                    2B
+                                </div>
+                            </div>
+                        </a>
+                        <a
+                            href="https://huggingface.co/bartowski/gemma-1.1-7b-it-GGUF/resolve/main/gemma-1.1-7b-it-IQ4_NL.gguf?download=true">
                             <div class="icon-box mt-1">
                                 <div class="icon-box-inner small-xs text-primary">
                                     <span data-feather="download"></span>
@@ -352,11 +440,12 @@
                             </div>
                         </div> -->
                         <div class="media-body">
-                            <h5>ORCA</h5>
-                            <p class="text-muted">A LLama2-7b model trained on Orca Style datasets.
+                            <h5>MobileVLM</h5>
+                            <p class="text-muted">MobileVLM is a competent multimodal vision language model (MMVLM) targeted to run on mobile devices.
                             </p>
                         </div>
-                        <a href="https://huggingface.co/guinmoon/LLMFarm_Models/resolve/main/orca-mini-3b-q4_1.gguf">
+                        <a
+                            href="https://huggingface.co/guinmoon/MobileVLM-3B-GGUF/resolve/main/MobileVLM-3B-Q4_K_M.gguf?download=true">
                             <div class="icon-box mt-1">
                                 <div class="icon-box-inner small-xs text-primary">
                                     <span data-feather="download"></span>
@@ -364,53 +453,12 @@
                                 </div>
                             </div>
                         </a>
-                        <a
-                            href="https://huggingface.co/TheBloke/orca_mini_v3_7B-GGUF/resolve/main/orca_mini_v3_7b.Q3_K_S.gguf">
-                            <div class="icon-box mt-1">
-                                <div class="icon-box-inner small-xs text-primary">
-                                    <span data-feather="download"></span>
-                                    7B
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                    <div class="media pb-5">
-                        <!-- <div class="icon-box mt-1">
-                            <div class="icon-box-inner small-xs text-primary">
-                                <span data-feather="box"></span>
-                            </div>
-                        </div> -->
-                        <div class="media-body">
-                            <h5>RWKV 4 Raven</h5>
-                            <p class="text-muted">RWKV-4 "Raven" models finetuned on Alpaca, CodeAlpaca, Guanaco,
-                                GPT4All, ShareGPT and more. Even the 1.5B model is surprisingly good for its size.
-                            </p>
-                        </div>
-                        <a
-                            href="https://huggingface.co/latestissue/rwkv-4-raven-ggml-quantized/resolve/main/q4_1-RWKV-4-Raven-1B5-v12-Eng98%25-Other2%25-20230520-ctx4096.bin">
-                            <div class="icon-box mt-1">
-                                <div class="icon-box-inner small-xs text-primary">
-                                    <span data-feather="download"></span>
-                                    1.5B
-                                </div>
-                            </div>
-                        </a>
                         <div class="download_model_links_column">
-                            <a
-                                href="https://huggingface.co/latestissue/rwkv-4-raven-ggml-quantized/resolve/main/q4_1-RWKV-4-Raven-3B-v12-Eng98%25-Other2%25-20230520-ctx4096.bin">
+                            <a href="https://huggingface.co/guinmoon/MobileVLM-3B-GGUF/resolve/main/MobileVLM-3B-mmproj-f16.gguf?download=true">
                                 <div class="icon-box mt-1">
                                     <div class="icon-box-inner small-xs text-primary">
                                         <span data-feather="download"></span>
-                                        3B
-                                    </div>
-                                </div>
-                            </a>
-                            <a
-                                href="https://huggingface.co/latestissue/rwkv-4-raven-ggml-quantized/resolve/main/q4_1-RWKV-4-Raven-7B-v12-Eng98%25-Other2%25-20230521-ctx8192.bin">
-                                <div class="icon-box mt-1">
-                                    <div class="icon-box-inner small-xs text-primary">
-                                        <span data-feather="download"></span>
-                                        7B
+                                        CLIP
                                     </div>
                                 </div>
                             </a>
@@ -423,16 +471,17 @@
                             </div>
                         </div> -->
                         <div class="media-body">
-                            <h5>MagicPrompt Stable Diffusion</h5>
+                            <h5>Marx</h5>
                             <p class="text-muted">This is a model, which are GPT-2 models intended to generate prompt
                                 texts for imaging AIs.
                             </p>
                         </div>
                         <a
-                            href="https://huggingface.co/xzuyn/MagicPrompt-Stable-Diffusion-124M-GGML/resolve/main/ggjtv1-model-q4_0.bin">
+                            href="https://huggingface.co/TheBloke/Marx-3B-v3-GGUF/resolve/main/marx-3b-v3.Q4_K_M.gguf">
                             <div class="icon-box mt-1">
                                 <div class="icon-box-inner small-xs text-primary">
                                     <span data-feather="download"></span>
+                                    3B
                                 </div>
                             </div>
                         </a>
@@ -444,55 +493,31 @@
                             </div>
                         </div> -->
                         <div class="media-body">
-                            <h5>Cerebras</h5>
-                            <p class="text-muted">The Cerebras-GPT family is released to facilitate research into LLM
-                                scaling laws using open architectures and data sets and demonstrate the simplicity of
-                                and scalability of training LLMs on the Cerebras software and hardware stack.
+                            <h5>TinyLlama</h5>
+                            <p class="text-muted">The TinyLlama project aims to pretrain a 1.1B Llama model on 3 trillion tokens.
                             </p>
                         </div>
-                        <a href="">
+                        <a href="https://huggingface.co/TheBloke/TinyLlama-1.1B-Chat-v1.0-GGUF/resolve/main/tinyllama-1.1b-chat-v1.0.Q8_0.gguf?download=true">
                             <div class="icon-box mt-1">
                                 <div class="icon-box-inner small-xs text-primary">
                                     <span data-feather="download"></span>
-                                    0.59B
+                                    1.1B
                                 </div>
                             </div>
                         </a>
-                        <div class="download_model_links_column">
-
-                            <a href="">
-                                <div class="icon-box mt-1">
-                                    <div class="icon-box-inner small-xs text-primary">
-                                        <span data-feather="download"></span>
-                                        2.7B
-                                    </div>
-                                </div>
-                            </a>
-                            <a
-                                href="https://huggingface.co/guinmoon/cerebras-6.7b-ggml/resolve/main/Cerebras%206.7B-ggmlv3-q4_1.bin">
-                                <div class="icon-box mt-1">
-                                    <div class="icon-box-inner small-xs text-primary">
-                                        <span data-feather="download"></span>
-                                        6.7B
-                                    </div>
-                                </div>
-                            </a>
-                        </div>
                     </div>
                     <div class="media">
 
                         <div class="media-body">
-                            <h5>Stable LM</h5>
-                            <p class="text-muted">StableLM-Tuned-Alpha is a suite of 3B and 7B parameter decoder-only
-                                language models built on top of the StableLM-Base-Alpha models and further fine-tuned on
-                                various chat and instruction-following datasets.
+                            <h5>Qwen1.5</h5>
+                            <p class="text-muted">Popular Chinese model 
                             </p>
                         </div>
                         <a
-                            href="https://huggingface.co/rustformers/stablelm-ggml/resolve/main/stablelm-base-alpha-3b-q5_1-ggjt.bin">
+                            href="https://huggingface.co/Qwen/Qwen1.5-4B-Chat-GGUF/resolve/main/qwen1_5-4b-chat-q4_k_m.gguf?download=true">
                             <div class="icon-box mt-1">
                                 <div class="icon-box-inner small-xs text-primary">
-                                    <span data-feather="download"></span>3B
+                                    <span data-feather="download"></span>4B
                                 </div>
                             </div>
                         </a>
@@ -631,15 +656,15 @@
                         <li class="list-inline-item">
                             <a href="https://www.youtube.com/@LLMFarm-lib"><i class="fa fa-youtube"></i></a>
                         </li>
-                        <!-- <li class="list-inline-item">
-                            <a href=""><i class="fa fa-dribbble"></i></a>
-                        </li> -->
+                        <li class="list-inline-item">
+                            <a href="https://boosty.to/llmfarm"><i class="fa"><img height="24px" src="img/boosty_icon.png"></i></a>
+                        </li>
                     </ul>
                 </div>
             </div>
             <div class="row mt-5">
                 <div class="col-12 text-muted text-center small-xl">
-                    &copy; 2023 Artem Savkin - All Rights Reserved
+                    &copy; 2024 Artem Savkin - All Rights Reserved
                 </div>
             </div>
         </div>
