@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>LLM Farm Blog</title>
-        <link>https://guinmoon.github.io/llmfarm_site/blog</link>
+        <link>https://guinmoon.github.io/blog</link>
         <description>LLM Farm Blog</description>
         <lastBuildDate>Mon, 07 Oct 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,8 +10,8 @@
         <language>en</language>
         <item>
             <title><![CDATA[v1.3.9 beta]]></title>
-            <link>https://guinmoon.github.io/llmfarm_site/blog/v1.3.9</link>
-            <guid>https://guinmoon.github.io/llmfarm_site/blog/v1.3.9</guid>
+            <link>https://guinmoon.github.io/blog/v1.3.9</link>
+            <guid>https://guinmoon.github.io/blog/v1.3.9</guid>
             <pubDate>Mon, 07 Oct 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[Minor Update]]></description>
             <content:encoded><![CDATA[<ul>
@@ -33,8 +33,8 @@
         </item>
         <item>
             <title><![CDATA[v1.3.4]]></title>
-            <link>https://guinmoon.github.io/llmfarm_site/blog/v1.3.4</link>
-            <guid>https://guinmoon.github.io/llmfarm_site/blog/v1.3.4</guid>
+            <link>https://guinmoon.github.io/blog/v1.3.4</link>
+            <guid>https://guinmoon.github.io/blog/v1.3.4</guid>
             <pubDate>Sun, 08 Sep 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[Minor Update]]></description>
             <content:encoded><![CDATA[<ul>
@@ -60,8 +60,8 @@
         </item>
         <item>
             <title><![CDATA[v1.3.0]]></title>
-            <link>https://guinmoon.github.io/llmfarm_site/blog/v1.3.0</link>
-            <guid>https://guinmoon.github.io/llmfarm_site/blog/v1.3.0</guid>
+            <link>https://guinmoon.github.io/blog/v1.3.0</link>
+            <guid>https://guinmoon.github.io/blog/v1.3.0</guid>
             <pubDate>Mon, 24 Jun 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[Major Update]]></description>
             <content:encoded><![CDATA[<ul>
@@ -83,8 +83,8 @@
         </item>
         <item>
             <title><![CDATA[v1.2.5]]></title>
-            <link>https://guinmoon.github.io/llmfarm_site/blog/v1.2.5</link>
-            <guid>https://guinmoon.github.io/llmfarm_site/blog/v1.2.5</guid>
+            <link>https://guinmoon.github.io/blog/v1.2.5</link>
+            <guid>https://guinmoon.github.io/blog/v1.2.5</guid>
             <pubDate>Mon, 27 May 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[Minor Update]]></description>
             <content:encoded><![CDATA[<ul>
@@ -99,8 +99,8 @@
         </item>
         <item>
             <title><![CDATA[v1.2.0]]></title>
-            <link>https://guinmoon.github.io/llmfarm_site/blog/v1.2.0</link>
-            <guid>https://guinmoon.github.io/llmfarm_site/blog/v1.2.0</guid>
+            <link>https://guinmoon.github.io/blog/v1.2.0</link>
+            <guid>https://guinmoon.github.io/blog/v1.2.0</guid>
             <pubDate>Wed, 15 May 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[Major Update]]></description>
             <content:encoded><![CDATA[<ul>
@@ -118,8 +118,8 @@
         </item>
         <item>
             <title><![CDATA[v1.1.1]]></title>
-            <link>https://guinmoon.github.io/llmfarm_site/blog/v1.1.1</link>
-            <guid>https://guinmoon.github.io/llmfarm_site/blog/v1.1.1</guid>
+            <link>https://guinmoon.github.io/blog/v1.1.1</link>
+            <guid>https://guinmoon.github.io/blog/v1.1.1</guid>
             <pubDate>Sat, 04 May 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[Minor Update]]></description>
             <content:encoded><![CDATA[<ul>
@@ -131,8 +131,8 @@
         </item>
         <item>
             <title><![CDATA[v1.1.0]]></title>
-            <link>https://guinmoon.github.io/llmfarm_site/blog/v1.1.0</link>
-            <guid>https://guinmoon.github.io/llmfarm_site/blog/v1.1.0</guid>
+            <link>https://guinmoon.github.io/blog/v1.1.0</link>
+            <guid>https://guinmoon.github.io/blog/v1.1.0</guid>
             <pubDate>Thu, 25 Apr 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[Minor Update]]></description>
             <content:encoded><![CDATA[<ul>
@@ -149,8 +149,8 @@
         </item>
         <item>
             <title><![CDATA[v1.0.1]]></title>
-            <link>https://guinmoon.github.io/llmfarm_site/blog/v1.0.1</link>
-            <guid>https://guinmoon.github.io/llmfarm_site/blog/v1.0.1</guid>
+            <link>https://guinmoon.github.io/blog/v1.0.1</link>
+            <guid>https://guinmoon.github.io/blog/v1.0.1</guid>
             <pubDate>Wed, 20 Mar 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[Minor Update]]></description>
             <content:encoded><![CDATA[<ul>
@@ -172,8 +172,8 @@
         </item>
         <item>
             <title><![CDATA[v1.0.0]]></title>
-            <link>https://guinmoon.github.io/llmfarm_site/blog/v1.0.0</link>
-            <guid>https://guinmoon.github.io/llmfarm_site/blog/v1.0.0</guid>
+            <link>https://guinmoon.github.io/blog/v1.0.0</link>
+            <guid>https://guinmoon.github.io/blog/v1.0.0</guid>
             <pubDate>Tue, 19 Mar 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[Major Update]]></description>
             <content:encoded><![CDATA[<ul>
@@ -189,8 +189,8 @@
         </item>
         <item>
             <title><![CDATA[v0.9.5]]></title>
-            <link>https://guinmoon.github.io/llmfarm_site/blog/v0.9.5</link>
-            <guid>https://guinmoon.github.io/llmfarm_site/blog/v0.9.5</guid>
+            <link>https://guinmoon.github.io/blog/v0.9.5</link>
+            <guid>https://guinmoon.github.io/blog/v0.9.5</guid>
             <pubDate>Sun, 25 Feb 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[Minor Update]]></description>
             <content:encoded><![CDATA[<ul>
@@ -206,8 +206,8 @@
         </item>
         <item>
             <title><![CDATA[v0.9.2]]></title>
-            <link>https://guinmoon.github.io/llmfarm_site/blog/v0.9.2</link>
-            <guid>https://guinmoon.github.io/llmfarm_site/blog/v0.9.2</guid>
+            <link>https://guinmoon.github.io/blog/v0.9.2</link>
+            <guid>https://guinmoon.github.io/blog/v0.9.2</guid>
             <pubDate>Mon, 12 Feb 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[Minor Update]]></description>
             <content:encoded><![CDATA[<ul>
@@ -226,8 +226,8 @@
         </item>
         <item>
             <title><![CDATA[v0.9.0]]></title>
-            <link>https://guinmoon.github.io/llmfarm_site/blog/v0.9.0</link>
-            <guid>https://guinmoon.github.io/llmfarm_site/blog/v0.9.0</guid>
+            <link>https://guinmoon.github.io/blog/v0.9.0</link>
+            <guid>https://guinmoon.github.io/blog/v0.9.0</guid>
             <pubDate>Sat, 20 Jan 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[Minor Update]]></description>
             <content:encoded><![CDATA[<ul>
@@ -246,8 +246,8 @@
         </item>
         <item>
             <title><![CDATA[v0.8.0]]></title>
-            <link>https://guinmoon.github.io/llmfarm_site/blog/v0.8.0</link>
-            <guid>https://guinmoon.github.io/llmfarm_site/blog/v0.8.0</guid>
+            <link>https://guinmoon.github.io/blog/v0.8.0</link>
+            <guid>https://guinmoon.github.io/blog/v0.8.0</guid>
             <pubDate>Tue, 05 Dec 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[Minor Update]]></description>
             <content:encoded><![CDATA[<ul>
@@ -266,8 +266,8 @@
         </item>
         <item>
             <title><![CDATA[v0.7.5]]></title>
-            <link>https://guinmoon.github.io/llmfarm_site/blog/v0.7.5</link>
-            <guid>https://guinmoon.github.io/llmfarm_site/blog/v0.7.5</guid>
+            <link>https://guinmoon.github.io/blog/v0.7.5</link>
+            <guid>https://guinmoon.github.io/blog/v0.7.5</guid>
             <pubDate>Tue, 14 Nov 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[Minor Update]]></description>
             <content:encoded><![CDATA[<ul>
@@ -286,8 +286,8 @@ It is recommended to use q8_0 quantization for LoRA training.</p>]]></content:en
         </item>
         <item>
             <title><![CDATA[v0.7.0]]></title>
-            <link>https://guinmoon.github.io/llmfarm_site/blog/v0.7.0</link>
-            <guid>https://guinmoon.github.io/llmfarm_site/blog/v0.7.0</guid>
+            <link>https://guinmoon.github.io/blog/v0.7.0</link>
+            <guid>https://guinmoon.github.io/blog/v0.7.0</guid>
             <pubDate>Thu, 19 Oct 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[Minor Update]]></description>
             <content:encoded><![CDATA[<ul>
@@ -308,8 +308,8 @@ It is recommended to use q8_0 quantization for LoRA training.</p>]]></content:en
         </item>
         <item>
             <title><![CDATA[v0.6.2]]></title>
-            <link>https://guinmoon.github.io/llmfarm_site/blog/v0.6.2</link>
-            <guid>https://guinmoon.github.io/llmfarm_site/blog/v0.6.2</guid>
+            <link>https://guinmoon.github.io/blog/v0.6.2</link>
+            <guid>https://guinmoon.github.io/blog/v0.6.2</guid>
             <pubDate>Mon, 09 Oct 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[Minor Update]]></description>
             <content:encoded><![CDATA[<ul>
@@ -336,8 +336,8 @@ It is recommended to use q8_0 quantization for LoRA training.</p>]]></content:en
         </item>
         <item>
             <title><![CDATA[v0.5.2]]></title>
-            <link>https://guinmoon.github.io/llmfarm_site/blog/v0.5.2</link>
-            <guid>https://guinmoon.github.io/llmfarm_site/blog/v0.5.2</guid>
+            <link>https://guinmoon.github.io/blog/v0.5.2</link>
+            <guid>https://guinmoon.github.io/blog/v0.5.2</guid>
             <pubDate>Mon, 11 Sep 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[Minor Update]]></description>
             <content:encoded><![CDATA[<ul>

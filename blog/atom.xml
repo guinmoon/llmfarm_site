@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://guinmoon.github.io/llmfarm_site/blog</id>
+    <id>https://guinmoon.github.io/blog</id>
     <title>LLM Farm Blog</title>
     <updated>2024-10-07T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://guinmoon.github.io/llmfarm_site/blog"/>
+    <link rel="alternate" href="https://guinmoon.github.io/blog"/>
     <subtitle>LLM Farm Blog</subtitle>
-    <icon>https://guinmoon.github.io/llmfarm_site/img/icon/apple-touch-icon.png</icon>
+    <icon>https://guinmoon.github.io/img/icon/apple-touch-icon.png</icon>
     <entry>
         <title type="html"><![CDATA[v1.3.9 beta]]></title>
-        <id>https://guinmoon.github.io/llmfarm_site/blog/v1.3.9</id>
-        <link href="https://guinmoon.github.io/llmfarm_site/blog/v1.3.9"/>
+        <id>https://guinmoon.github.io/blog/v1.3.9</id>
+        <link href="https://guinmoon.github.io/blog/v1.3.9"/>
         <updated>2024-10-07T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Minor Update]]></summary>
         <content type="html"><![CDATA[<ul>
@@ -32,8 +32,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[v1.3.4]]></title>
-        <id>https://guinmoon.github.io/llmfarm_site/blog/v1.3.4</id>
-        <link href="https://guinmoon.github.io/llmfarm_site/blog/v1.3.4"/>
+        <id>https://guinmoon.github.io/blog/v1.3.4</id>
+        <link href="https://guinmoon.github.io/blog/v1.3.4"/>
         <updated>2024-09-08T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Minor Update]]></summary>
         <content type="html"><![CDATA[<ul>
@@ -59,8 +59,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[v1.3.0]]></title>
-        <id>https://guinmoon.github.io/llmfarm_site/blog/v1.3.0</id>
-        <link href="https://guinmoon.github.io/llmfarm_site/blog/v1.3.0"/>
+        <id>https://guinmoon.github.io/blog/v1.3.0</id>
+        <link href="https://guinmoon.github.io/blog/v1.3.0"/>
         <updated>2024-06-24T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Major Update]]></summary>
         <content type="html"><![CDATA[<ul>
@@ -82,8 +82,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[v1.2.5]]></title>
-        <id>https://guinmoon.github.io/llmfarm_site/blog/v1.2.5</id>
-        <link href="https://guinmoon.github.io/llmfarm_site/blog/v1.2.5"/>
+        <id>https://guinmoon.github.io/blog/v1.2.5</id>
+        <link href="https://guinmoon.github.io/blog/v1.2.5"/>
         <updated>2024-05-27T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Minor Update]]></summary>
         <content type="html"><![CDATA[<ul>
@@ -98,8 +98,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[v1.2.0]]></title>
-        <id>https://guinmoon.github.io/llmfarm_site/blog/v1.2.0</id>
-        <link href="https://guinmoon.github.io/llmfarm_site/blog/v1.2.0"/>
+        <id>https://guinmoon.github.io/blog/v1.2.0</id>
+        <link href="https://guinmoon.github.io/blog/v1.2.0"/>
         <updated>2024-05-15T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Major Update]]></summary>
         <content type="html"><![CDATA[<ul>
@@ -117,8 +117,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[v1.1.1]]></title>
-        <id>https://guinmoon.github.io/llmfarm_site/blog/v1.1.1</id>
-        <link href="https://guinmoon.github.io/llmfarm_site/blog/v1.1.1"/>
+        <id>https://guinmoon.github.io/blog/v1.1.1</id>
+        <link href="https://guinmoon.github.io/blog/v1.1.1"/>
         <updated>2024-05-04T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Minor Update]]></summary>
         <content type="html"><![CDATA[<ul>
@@ -130,8 +130,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[v1.1.0]]></title>
-        <id>https://guinmoon.github.io/llmfarm_site/blog/v1.1.0</id>
-        <link href="https://guinmoon.github.io/llmfarm_site/blog/v1.1.0"/>
+        <id>https://guinmoon.github.io/blog/v1.1.0</id>
+        <link href="https://guinmoon.github.io/blog/v1.1.0"/>
         <updated>2024-04-25T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Minor Update]]></summary>
         <content type="html"><![CDATA[<ul>
@@ -148,8 +148,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[v1.0.1]]></title>
-        <id>https://guinmoon.github.io/llmfarm_site/blog/v1.0.1</id>
-        <link href="https://guinmoon.github.io/llmfarm_site/blog/v1.0.1"/>
+        <id>https://guinmoon.github.io/blog/v1.0.1</id>
+        <link href="https://guinmoon.github.io/blog/v1.0.1"/>
         <updated>2024-03-20T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Minor Update]]></summary>
         <content type="html"><![CDATA[<ul>
@@ -171,8 +171,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[v1.0.0]]></title>
-        <id>https://guinmoon.github.io/llmfarm_site/blog/v1.0.0</id>
-        <link href="https://guinmoon.github.io/llmfarm_site/blog/v1.0.0"/>
+        <id>https://guinmoon.github.io/blog/v1.0.0</id>
+        <link href="https://guinmoon.github.io/blog/v1.0.0"/>
         <updated>2024-03-19T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Major Update]]></summary>
         <content type="html"><![CDATA[<ul>
@@ -188,8 +188,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[v0.9.5]]></title>
-        <id>https://guinmoon.github.io/llmfarm_site/blog/v0.9.5</id>
-        <link href="https://guinmoon.github.io/llmfarm_site/blog/v0.9.5"/>
+        <id>https://guinmoon.github.io/blog/v0.9.5</id>
+        <link href="https://guinmoon.github.io/blog/v0.9.5"/>
         <updated>2024-02-25T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Minor Update]]></summary>
         <content type="html"><![CDATA[<ul>
@@ -205,8 +205,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[v0.9.2]]></title>
-        <id>https://guinmoon.github.io/llmfarm_site/blog/v0.9.2</id>
-        <link href="https://guinmoon.github.io/llmfarm_site/blog/v0.9.2"/>
+        <id>https://guinmoon.github.io/blog/v0.9.2</id>
+        <link href="https://guinmoon.github.io/blog/v0.9.2"/>
         <updated>2024-02-12T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Minor Update]]></summary>
         <content type="html"><![CDATA[<ul>
@@ -225,8 +225,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[v0.9.0]]></title>
-        <id>https://guinmoon.github.io/llmfarm_site/blog/v0.9.0</id>
-        <link href="https://guinmoon.github.io/llmfarm_site/blog/v0.9.0"/>
+        <id>https://guinmoon.github.io/blog/v0.9.0</id>
+        <link href="https://guinmoon.github.io/blog/v0.9.0"/>
         <updated>2024-01-20T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Minor Update]]></summary>
         <content type="html"><![CDATA[<ul>
@@ -245,8 +245,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[v0.8.0]]></title>
-        <id>https://guinmoon.github.io/llmfarm_site/blog/v0.8.0</id>
-        <link href="https://guinmoon.github.io/llmfarm_site/blog/v0.8.0"/>
+        <id>https://guinmoon.github.io/blog/v0.8.0</id>
+        <link href="https://guinmoon.github.io/blog/v0.8.0"/>
         <updated>2023-12-05T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Minor Update]]></summary>
         <content type="html"><![CDATA[<ul>
@@ -265,8 +265,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[v0.7.5]]></title>
-        <id>https://guinmoon.github.io/llmfarm_site/blog/v0.7.5</id>
-        <link href="https://guinmoon.github.io/llmfarm_site/blog/v0.7.5"/>
+        <id>https://guinmoon.github.io/blog/v0.7.5</id>
+        <link href="https://guinmoon.github.io/blog/v0.7.5"/>
         <updated>2023-11-14T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Minor Update]]></summary>
         <content type="html"><![CDATA[<ul>
@@ -285,8 +285,8 @@ It is recommended to use q8_0 quantization for LoRA training.</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[v0.7.0]]></title>
-        <id>https://guinmoon.github.io/llmfarm_site/blog/v0.7.0</id>
-        <link href="https://guinmoon.github.io/llmfarm_site/blog/v0.7.0"/>
+        <id>https://guinmoon.github.io/blog/v0.7.0</id>
+        <link href="https://guinmoon.github.io/blog/v0.7.0"/>
         <updated>2023-10-19T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Minor Update]]></summary>
         <content type="html"><![CDATA[<ul>
@@ -307,8 +307,8 @@ It is recommended to use q8_0 quantization for LoRA training.</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[v0.6.2]]></title>
-        <id>https://guinmoon.github.io/llmfarm_site/blog/v0.6.2</id>
-        <link href="https://guinmoon.github.io/llmfarm_site/blog/v0.6.2"/>
+        <id>https://guinmoon.github.io/blog/v0.6.2</id>
+        <link href="https://guinmoon.github.io/blog/v0.6.2"/>
         <updated>2023-10-09T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Minor Update]]></summary>
         <content type="html"><![CDATA[<ul>
@@ -335,8 +335,8 @@ It is recommended to use q8_0 quantization for LoRA training.</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[v0.5.2]]></title>
-        <id>https://guinmoon.github.io/llmfarm_site/blog/v0.5.2</id>
-        <link href="https://guinmoon.github.io/llmfarm_site/blog/v0.5.2"/>
+        <id>https://guinmoon.github.io/blog/v0.5.2</id>
+        <link href="https://guinmoon.github.io/blog/v0.5.2"/>
         <updated>2023-09-11T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Minor Update]]></summary>
         <content type="html"><![CDATA[<ul>
