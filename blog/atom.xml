@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://guinmoon.github.io/llmfarm_site/blog</id>
+    <title>LLM Farm Blog</title>
+    <updated>2024-10-07T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://guinmoon.github.io/llmfarm_site/blog"/>
+    <subtitle>LLM Farm Blog</subtitle>
+    <icon>https://guinmoon.github.io/llmfarm_site/img/icon/apple-touch-icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[v1.3.9 beta]]></title>
+        <id>https://guinmoon.github.io/llmfarm_site/blog/v1.3.9</id>
+        <link href="https://guinmoon.github.io/llmfarm_site/blog/v1.3.9"/>
+        <updated>2024-10-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Minor Update]]></summary>
+        <content type="html"><![CDATA[<ul>
+<li>llama.cpp updated to b3837</li>
+<li>Added support for llama 3.2, 3.1, RWKV, MiniCPM(2.5, 2.6, 3), Chameleon models</li>
+</ul>
+<ul>
+<li>llama.cpp updated to b3837</li>
+<li>Added support for llama 3.2, 3.1, RWKV, MiniCPM(2.5, 2.6, 3), Chameleon models</li>
+<li>Added Metal support for Mamba</li>
+<li>Added Llama 3.2 download links (working with LLaMa3 Instruct template)</li>
+<li>Added Phi 3.5 download links (working with Phi 3 template)</li>
+<li>Added Bunny template and download link</li>
+<li>Some metal improvements</li>
+<li>Fixed some errors for gemma2, DeepSeek-V2, ChatGLM4, llama 3.1, T5, TriLMs, BitNet models</li>
+<li>Fixed some other errors</li>
+</ul>]]></content>
+        <category label="update" term="update"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v1.3.4]]></title>
+        <id>https://guinmoon.github.io/llmfarm_site/blog/v1.3.4</id>
+        <link href="https://guinmoon.github.io/llmfarm_site/blog/v1.3.4"/>
+        <updated>2024-09-08T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Minor Update]]></summary>
+        <content type="html"><![CDATA[<ul>
+<li>llama.cpp updated to b3445</li>
+<li>Added Gemma2, T5, JAIS, Bitnet support, GLM(3,4), Mistral Nemo</li>
+<li>Added OpenELM support</li>
+</ul>
+<ul>
+<li>
+<p>Added the ability to change the styling of chat messages.</p>
+</li>
+<li>
+<p>Added a built-in demo chat for new users. (The ChatML template is used)</p>
+</li>
+<li>
+<p>Some detokenizer fixes</p>
+</li>
+<li>
+<p>LoRa and FineTune are temporarily disabled due to the need for code refactoring due to a large number of errors</p>
+</li>
+</ul>]]></content>
+        <category label="update" term="update"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v1.3.0]]></title>
+        <id>https://guinmoon.github.io/llmfarm_site/blog/v1.3.0</id>
+        <link href="https://guinmoon.github.io/llmfarm_site/blog/v1.3.0"/>
+        <updated>2024-06-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Major Update]]></summary>
+        <content type="html"><![CDATA[<ul>
+<li>llama.cpp updated to b3190</li>
+<li>Added support for DeepseekV2, GPTNeoX (Pythia and others)</li>
+<li>Added support for Markdown formatting</li>
+</ul>
+<ul>
+<li>Added support for using history in Shortcuts</li>
+<li>Added Flash Attention support</li>
+<li>Added NPredict option</li>
+<li>Metal and CPU inference improvements</li>
+<li>Sampling and eval improvements</li>
+<li>Some fixes for phi-3 and MiniCPM</li>
+<li>Fixed some errors</li>
+<li>Added Qwen template</li>
+</ul>]]></content>
+        <category label="update" term="update"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v1.2.5]]></title>
+        <id>https://guinmoon.github.io/llmfarm_site/blog/v1.2.5</id>
+        <link href="https://guinmoon.github.io/llmfarm_site/blog/v1.2.5"/>
+        <updated>2024-05-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Minor Update]]></summary>
+        <content type="html"><![CDATA[<ul>
+<li>Save/Load context state. Now it is possible to continue the dialog with the model even after the program is reopened. Read more here.</li>
+<li>Chat settings such as sampling are now applied without reloading the chat.</li>
+</ul>
+<ul>
+<li>Skip tokens option. Allows you to specify tokens that will not be displayed in the results. May be useful for phi3 and qwen.</li>
+<li>Fixed some errors.</li>
+</ul>]]></content>
+        <category label="update" term="update"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v1.2.0]]></title>
+        <id>https://guinmoon.github.io/llmfarm_site/blog/v1.2.0</id>
+        <link href="https://guinmoon.github.io/llmfarm_site/blog/v1.2.0"/>
+        <updated>2024-05-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Major Update]]></summary>
+        <content type="html"><![CDATA[<ul>
+<li>Added shortcuts support</li>
+<li>llama.cpp updated to b2864</li>
+<li>Added llama3 instruct template</li>
+</ul>
+<ul>
+<li>Some llama-3, Command-R fixes</li>
+<li>Fixed a bug that could cause the application to crash if the system prompt format is incorrect</li>
+<li>Fix memory bug in grammar parser</li>
+<li>Fixed some other bugs</li>
+</ul>]]></content>
+        <category label="update" term="update"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v1.1.1]]></title>
+        <id>https://guinmoon.github.io/llmfarm_site/blog/v1.1.1</id>
+        <link href="https://guinmoon.github.io/llmfarm_site/blog/v1.1.1"/>
+        <updated>2024-05-04T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Minor Update]]></summary>
+        <content type="html"><![CDATA[<ul>
+<li>Added Gemma template and download link</li>
+<li>Added warning about creating a chat without a selected model</li>
+<li>Fixed some bugs</li>
+</ul>]]></content>
+        <category label="update" term="update"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v1.1.0]]></title>
+        <id>https://guinmoon.github.io/llmfarm_site/blog/v1.1.0</id>
+        <link href="https://guinmoon.github.io/llmfarm_site/blog/v1.1.0"/>
+        <updated>2024-04-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Minor Update]]></summary>
+        <content type="html"><![CDATA[<ul>
+<li>llama.cpp updated to b2717</li>
+<li>Phi3, Mamba(CPU only), gemma, StarCoder2, GritLM, Command-R, MobileVLM_V2, qwen2moe models</li>
+<li>IQ1_S, IQ2_S, IQ2_M, IQ3_S, IQ4_NL, IQ4_XS quntization support</li>
+</ul>
+<ul>
+<li>Performance improvements</li>
+<li>Fixed crash when EOS option is on</li>
+<li>Fixed image orientation</li>
+</ul>]]></content>
+        <category label="update" term="update"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v1.0.1]]></title>
+        <id>https://guinmoon.github.io/llmfarm_site/blog/v1.0.1</id>
+        <link href="https://guinmoon.github.io/llmfarm_site/blog/v1.0.1"/>
+        <updated>2024-03-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Minor Update]]></summary>
+        <content type="html"><![CDATA[<ul>
+<li>Fixed some bugs that could cause the application to crash</li>
+<li>Added the ability to hide the keyboard, to do this tap anywhere in the chat window</li>
+</ul>
+<ul>
+<li>
+<p>When you clear the message history, the model context is also cleared</p>
+</li>
+<li>
+<p>Added ability to temporarily disable chat autoscrolling by tapping anywhere in the chat window, autoscrolling will be enabled automatically when sending a new message</p>
+</li>
+<li>
+<p>*If you are getting "strange" prediction results in version 1.0.1, but everything was fine in version 1.0.0, try disabling the BOS option in the template.</p>
+</li>
+</ul>]]></content>
+        <category label="update" term="update"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v1.0.0]]></title>
+        <id>https://guinmoon.github.io/llmfarm_site/blog/v1.0.0</id>
+        <link href="https://guinmoon.github.io/llmfarm_site/blog/v1.0.0"/>
+        <updated>2024-03-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Major Update]]></summary>
+        <content type="html"><![CDATA[<ul>
+<li>Added support for multimodal models MobileVLM, Yi-VL, LLaVA, Obsidian (tested on mobileVLM 3B)</li>
+<li>Fixed crash on switch model</li>
+</ul>
+<ul>
+<li>Fixed a bug that could cause a crash on startup of feintune</li>
+<li>Some UI improvements</li>
+<li>Fixed some other errors</li>
+</ul>]]></content>
+        <category label="update" term="update"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v0.9.5]]></title>
+        <id>https://guinmoon.github.io/llmfarm_site/blog/v0.9.5</id>
+        <link href="https://guinmoon.github.io/llmfarm_site/blog/v0.9.5"/>
+        <updated>2024-02-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Minor Update]]></summary>
+        <content type="html"><![CDATA[<ul>
+<li>llama.cpp updated to b2135</li>
+<li>Added the ability to download models from the application menu</li>
+<li>Added progress indicator for model loading</li>
+</ul>
+<ul>
+<li>Fixed disappearing keyboard bug</li>
+<li>Fixed some other bugs</li>
+</ul>]]></content>
+        <category label="update" term="update"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v0.9.2]]></title>
+        <id>https://guinmoon.github.io/llmfarm_site/blog/v0.9.2</id>
+        <link href="https://guinmoon.github.io/llmfarm_site/blog/v0.9.2"/>
+        <updated>2024-02-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Minor Update]]></summary>
+        <content type="html"><![CDATA[<ul>
+<li>Added possibility to specify System Prompt, which will be added to the text of the first message in the session. See FAQ.</li>
+<li>Added ability to clone chat (without message history)</li>
+</ul>
+<ul>
+<li>Chats are sorted by last modification date</li>
+<li>Clear chat history button is placed on the toolbox.</li>
+<li>You can now use both {prompt} and {{prompt}} designations in templates</li>
+<li>Fixed a bug with displaying already deleted chats and models</li>
+<li>Fixed some other bugs</li>
+<li>Templates have been updated</li>
+</ul>]]></content>
+        <category label="update" term="update"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v0.9.0]]></title>
+        <id>https://guinmoon.github.io/llmfarm_site/blog/v0.9.0</id>
+        <link href="https://guinmoon.github.io/llmfarm_site/blog/v0.9.0"/>
+        <updated>2024-01-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Minor Update]]></summary>
+        <content type="html"><![CDATA[<ul>
+<li>llama.cpp updated to b1891</li>
+<li>added support for Phi2, TinyLlama and other models</li>
+<li>various GUI improvements</li>
+</ul>
+<ul>
+<li>added clear chat button</li>
+<li>user templates improve</li>
+<li>fixed token to string issue</li>
+<li>fixed gpt2 metal</li>
+<li>fixed many other errors</li>
+</ul>]]></content>
+        <category label="update" term="update"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v0.8.0]]></title>
+        <id>https://guinmoon.github.io/llmfarm_site/blog/v0.8.0</id>
+        <link href="https://guinmoon.github.io/llmfarm_site/blog/v0.8.0"/>
+        <updated>2023-12-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Minor Update]]></summary>
+        <content type="html"><![CDATA[<ul>
+<li>llama.cpp updated to b1601</li>
+<li>added support for StableLM-3b-4e1t models</li>
+<li>added support for Qwen models</li>
+</ul>
+<ul>
+<li>added the possibility to merge LoRA with the model</li>
+<li>added merge and train LoRA progress bar</li>
+<li>added the possibility to save user templates</li>
+<li>added multyline input</li>
+<li>fixed many other errors</li>
+</ul>]]></content>
+        <category label="update" term="update"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v0.7.5]]></title>
+        <id>https://guinmoon.github.io/llmfarm_site/blog/v0.7.5</id>
+        <link href="https://guinmoon.github.io/llmfarm_site/blog/v0.7.5"/>
+        <updated>2023-11-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Minor Update]]></summary>
+        <content type="html"><![CDATA[<ul>
+<li>added LoRA train support experimental</li>
+<li>add BOS/EOS token to begin/end of prompt options</li>
+<li>handle special tokens options</li>
+</ul>
+<ul>
+<li>model loading indication</li>
+<li>token/sec indicator on message</li>
+<li>fixed some errors</li>
+</ul>
+<p>** Due to high RAM consumption LoRA training on iPhone is possible only on Pro models
+It is recommended to use q8_0 quantization for LoRA training.</p>]]></content>
+        <category label="update" term="update"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v0.7.0]]></title>
+        <id>https://guinmoon.github.io/llmfarm_site/blog/v0.7.0</id>
+        <link href="https://guinmoon.github.io/llmfarm_site/blog/v0.7.0"/>
+        <updated>2023-10-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Minor Update]]></summary>
+        <content type="html"><![CDATA[<ul>
+<li>llama.cpp updated to b1396</li>
+<li>LoRA adapters support (More about LoRA here)</li>
+<li>added support for MPT and Bloom models</li>
+</ul>
+<ul>
+<li>added support Metal for q5_0, q5_1 quantization</li>
+<li>gpt-2 now with Metal support</li>
+<li>added special token support for prompt template like User: {{prompt}}</li>
+<li>fixed tokenizer bug that could cause application crashing</li>
+<li>fixed mirostat for non llama</li>
+<li>fixed premature completion of predictions</li>
+<li>fixed many other errors</li>
+</ul>]]></content>
+        <category label="update" term="update"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v0.6.2]]></title>
+        <id>https://guinmoon.github.io/llmfarm_site/blog/v0.6.2</id>
+        <link href="https://guinmoon.github.io/llmfarm_site/blog/v0.6.2"/>
+        <updated>2023-10-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Minor Update]]></summary>
+        <content type="html"><![CDATA[<ul>
+<li>llama.cpp updated to b1256</li>
+<li>rwkv updated to 8db73b1</li>
+<li>add grammar sampling for llama models, you can put .gbnf files to the grammars directory</li>
+</ul>
+<ul>
+<li>gpt-2 updated</li>
+<li>rwkv_eval_sequence 20% increase speed</li>
+<li>handle GGML_ASSERT</li>
+<li>starcoder (santacoder) with Metal and mmap support (GGUF)</li>
+<li>infinite text generation by reseting n_past</li>
+<li>new llama2 and saiga template</li>
+<li>fixed some errors</li>
+<li>fixed mmap always false</li>
+<li>fixed many errors</li>
+<li>fix crash on n_tokens &gt; context size</li>
+<li>fix llama mlock</li>
+<li>fix crash on n_tokens &gt; context size</li>
+<li>fix llama mlock</li>
+</ul>]]></content>
+        <category label="update" term="update"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v0.5.2]]></title>
+        <id>https://guinmoon.github.io/llmfarm_site/blog/v0.5.2</id>
+        <link href="https://guinmoon.github.io/llmfarm_site/blog/v0.5.2"/>
+        <updated>2023-09-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Minor Update]]></summary>
+        <content type="html"><![CDATA[<ul>
+<li>llama.cpp updated to b1132, GGUF format support and increase in the speed. The old file format is still supported but uses llama dadbed9.</li>
+<li>Added Falcon models support (only GGUF)</li>
+<li>Added mmap and mlock options</li>
+</ul>
+<ul>
+<li>Added template for RWKV-4</li>
+<li>Added prompt format text editor with multiline support</li>
+<li>Added tfs_z and typical_p sampling parameters</li>
+<li>UI Improvements</li>
+<li>Templates improvments</li>
+<li>Fix model rename</li>
+<li>Fixed some UI bugs that could cause the app to crash.</li>
+<li>Fix llama, replit token_to_str</li>
+<li>Fixed many errors on model loading.</li>
+<li>Fixed scrolling issue</li>
+</ul>]]></content>
+        <category label="update" term="update"/>
+    </entry>
+</feed>
