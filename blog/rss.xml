@@ -4,12 +4,31 @@
         <title>LLM Farm Blog</title>
         <link>https://guinmoon.github.io/blog</link>
         <description>LLM Farm Blog</description>
-        <lastBuildDate>Mon, 07 Oct 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Oct 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[v1.3.9 beta]]></title>
+            <title><![CDATA[v1.4.0 beta]]></title>
+            <link>https://guinmoon.github.io/blog/v1.4.0</link>
+            <guid>https://guinmoon.github.io/blog/v1.4.0</guid>
+            <pubDate>Sat, 26 Oct 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Minor Update]]></description>
+            <content:encoded><![CDATA[<ul>
+<li>llama.cpp updated to b3982</li>
+<li>Added RAG support for <code>pdf</code> documents</li>
+<li>Chat settings UI improvements</li>
+</ul>
+<ul>
+<li>Added text summarization shortcut</li>
+<li>Some metal improvemets</li>
+<li>Added support for Chameleon</li>
+<li>Fixed some errors</li>
+</ul>]]></content:encoded>
+            <category>update</category>
+        </item>
+        <item>
+            <title><![CDATA[v1.3.9]]></title>
             <link>https://guinmoon.github.io/blog/v1.3.9</link>
             <guid>https://guinmoon.github.io/blog/v1.3.9</guid>
             <pubDate>Mon, 07 Oct 2024 00:00:00 GMT</pubDate>

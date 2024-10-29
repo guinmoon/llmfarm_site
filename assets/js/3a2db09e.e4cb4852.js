@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_eightshift_docs=self.webpackChunk_eightshift_docs||[]).push([[8121],{8070:e=>{e.exports=JSON.parse('{"tags":[{"label":"update","permalink":"/blog/tags/update","count":18}]}')}}]);
