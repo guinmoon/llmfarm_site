@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_eightshift_docs=self.webpackChunk_eightshift_docs||[]).push([[9385],{600:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/blog/page/2","page":2,"postsPerPage":9,"totalPages":3,"totalCount":19,"previousPage":"/blog","nextPage":"/blog/page/3","blogDescription":"","blogTitle":"LLM Farm news and updates"}}')}}]);

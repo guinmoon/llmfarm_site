@@ -4,12 +4,20 @@
         <title>LLM Farm Blog</title>
         <link>https://guinmoon.github.io/blog</link>
         <description>LLM Farm Blog</description>
-        <lastBuildDate>Sat, 26 Oct 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Nov 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[v1.4.0 beta]]></title>
+            <title><![CDATA[v1.4.1 beta]]></title>
+            <link>https://guinmoon.github.io/blog/v1.4.1</link>
+            <guid>https://guinmoon.github.io/blog/v1.4.1</guid>
+            <pubDate>Tue, 19 Nov 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Minor Update]]></description>
+            <category>update</category>
+        </item>
+        <item>
+            <title><![CDATA[v1.4.0]]></title>
             <link>https://guinmoon.github.io/blog/v1.4.0</link>
             <guid>https://guinmoon.github.io/blog/v1.4.0</guid>
             <pubDate>Sat, 26 Oct 2024 00:00:00 GMT</pubDate>

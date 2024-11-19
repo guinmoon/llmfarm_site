@@ -2,13 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://guinmoon.github.io/blog</id>
     <title>LLM Farm Blog</title>
-    <updated>2024-10-26T00:00:00.000Z</updated>
+    <updated>2024-11-19T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://guinmoon.github.io/blog"/>
     <subtitle>LLM Farm Blog</subtitle>
     <icon>https://guinmoon.github.io/img/icon/apple-touch-icon.png</icon>
     <entry>
-        <title type="html"><![CDATA[v1.4.0 beta]]></title>
+        <title type="html"><![CDATA[v1.4.1 beta]]></title>
+        <id>https://guinmoon.github.io/blog/v1.4.1</id>
+        <link href="https://guinmoon.github.io/blog/v1.4.1"/>
+        <updated>2024-11-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Minor Update]]></summary>
+        <category label="update" term="update"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v1.4.0]]></title>
         <id>https://guinmoon.github.io/blog/v1.4.0</id>
         <link href="https://guinmoon.github.io/blog/v1.4.0"/>
         <updated>2024-10-26T00:00:00.000Z</updated>
